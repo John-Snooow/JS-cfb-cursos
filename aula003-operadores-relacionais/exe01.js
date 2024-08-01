@@ -18,6 +18,6 @@ console.log(num1==num3) //verdadeiro
 
 console.log(!(num1==num3))//aqui eu estou fazendo uma inversão tornando aqui a firmaão de negação ou falso
 
-console.log(num1!=num3)// aqui seria falso porque num não é diferente de num3 como esta afirmando 
+console.log(num1!=num3)// aqui seria falso porque num não é diferente de num3 como esta afirmando
 
 console.log(!(num1!=num3))// aqui outra vez eu fiz uma inversão dizendo que num1não é diferente de num3 tornando aqui uma afirmação verdadeira
