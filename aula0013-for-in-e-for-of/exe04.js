@@ -15,3 +15,5 @@ for (o in objs) {
   // Imprime o conteúdo interno de cada elemento "div" no console
   console.log(objs[o].innerHTML)
 }
+
+// algo esta errado neste codigo que não esta funcionando 
