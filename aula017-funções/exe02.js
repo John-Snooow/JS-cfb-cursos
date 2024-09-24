@@ -3,6 +3,6 @@ function mudarTexto(){
   let d2=document.getElementById("d2")//Altera o conteúdo do elemento d1 para "CFB cursos".
   let d3=document.getElementById("d3")
   d1.innerHTML="John"
-  d2.innerHTML="Frank"
+  d2.innerHTML="Frankk"
   d3.innerHTML="CFB cursos"
 }
